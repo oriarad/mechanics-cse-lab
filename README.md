@@ -13,7 +13,7 @@ lab.add(weight1);
 
 We creates a 8 Kg weight in the location (100,80) in the lab.  
 
-![First example](Screeenshots/Mechanics-CS1.png)
+![First example](screenshots/Mechanics-CS1.png)
 
 # Another example
 ```java
@@ -26,7 +26,7 @@ lab.add(weight1);
 lab.add(weight2);
 lab.add(weight3);
 ```
-![First example](Screeenshots/Mechanics-CS2.png)
+![First example](screenshots/Mechanics-CS2.png)
 
 # Example
 ```java
@@ -36,7 +36,7 @@ lab.add(new Weight(20, 250, 150));
 lab.add(new Weight(20, 250, 150));
 lab.setTime(2.1);
 ```
-![First example](Screeenshots/Mechanics-CS3.png)
+![First example](screenshots/Mechanics-CS3.png)
 
 # Example
 ```java
@@ -46,4 +46,4 @@ lab.add(new Weight(20, 250, 150));
 lab.add(new Weight(20, 250, 150));
 lab.go();
 ```
-![First example](Screeenshots/go_demo.mp4)
+![First example](screenshots/go_demo.mp4)
